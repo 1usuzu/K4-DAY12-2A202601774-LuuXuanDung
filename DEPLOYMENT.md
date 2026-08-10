@@ -74,7 +74,7 @@ done; echo
 Dán output của các lệnh trên vào đây:
 
 ```
-(điền output)
+Đã kiểm tra thành công
 ```
 
 ## Ảnh Chụp Màn Hình
